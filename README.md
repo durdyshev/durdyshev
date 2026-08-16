@@ -15,11 +15,6 @@ My professional experience includes developing **Android POS software used by 30
 - 🏪 Developed software used across **30,000+ cash registers**
 - 🔌 Experienced with **ZVT payment protocol**
 - 💳 Payment terminal integration
-- 🔗 TCP/IP & Serial communication
-- 🖨️ Thermal printer integration
-- 💰 Cash drawer integration
-- ⚖️ Scale integration
-- 🔑 Dallas Key
 - 🏗️ MVVM & Clean Architecture
 - ⚡ Kotlin Coroutines & Flow
 - 🎨 Jetpack Compose & Material 3
@@ -89,7 +84,6 @@ A modern Android POS application demonstrating **ZVT-based payment terminal inte
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 ### Database
 
@@ -108,7 +102,7 @@ Android POS payment application demonstrating **ZVT protocol integration**.
 
 ---
 
-### 🎵 MusicPlayer
+### 🎵 [MusicPlayer](https://github.com/durdyshev/MusicPlayer)
 
 Android music player application focused on media playback and modern Android development.
 
@@ -116,7 +110,7 @@ Android music player application focused on media playback and modern Android de
 
 ---
 
-### 📝 AndroidBlogApp
+### 📝 [AndroidBlogApp](https://github.com/durdyshev/AndroidBlogApp)
 
 Android blog application demonstrating networking, local persistence, and modern Android architecture.
 
@@ -124,7 +118,7 @@ Android blog application demonstrating networking, local persistence, and modern
 
 ---
 
-### 🌤️ Weather App
+### 🌤️ [WeatherApp](https://github.com/durdyshev/WeatherApp)
 
 Modern weather application built with Jetpack Compose.
 
@@ -132,28 +126,6 @@ Modern weather application built with Jetpack Compose.
 
 ---
 
-## 🏗️ Development Philosophy
-
-```text
-Clean Code
-     ↓
-Maintainable Architecture
-     ↓
-Reliable Integrations
-     ↓
-Production-Ready Applications
-```
-
-- 📱 Modern Android Development
-- 💳 Payment & FinTech Applications
-- 🏪 POS Systems
-- 🔌 Hardware Integrations
-- 🏗️ Clean & Scalable Architecture
-- ⚡ Performance & Reliability
-- 🎨 Jetpack Compose
-- ☁️ Backend & Cloud Integration
-
----
 
 ## 📫 Connect With Me
 
