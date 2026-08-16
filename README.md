@@ -106,7 +106,7 @@ Android POS payment application demonstrating **ZVT protocol integration**.
 
 Android music player application focused on media playback and modern Android development.
 
-**Kotlin · ExoPlayer · Android**
+**Kotlin ·  Android**
 
 ---
 
